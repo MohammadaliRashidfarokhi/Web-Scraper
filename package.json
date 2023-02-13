@@ -1,0 +1,22 @@
+{
+  "name": "ass1_webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Calendars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.0",
+    "puppeteer": "^13.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "standard": "^16.0.4"
+  }
+}
